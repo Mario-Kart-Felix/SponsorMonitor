@@ -10,7 +10,7 @@ authors = ["Marcello Salvati <byt3bl33d3r@pm.com>"]
 python = "^3.8"
 fastapi = "^0.58.0"
 httpx = "^0.13.3"
-pydantic = "^1.5.1"
+pydantic = "^1.6.2"
 uvicorn = "^0.11.7"
 
 [tool.poetry.dev-dependencies]
